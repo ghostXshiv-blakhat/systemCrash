@@ -11,4 +11,7 @@ if you want to terminate all the opened loop at once use this command ( in power
 =>  Get-Process cmd | ForEach-Object { $_.Kill() }
 
 
+
+
+The file will not be executed till the user open it due to the .vbs extention.
 NOTE:- THE OWNER WILL NOT BE RESPONSIBLE FOR ANY KIND OF DAMAGE CAUSED BY THE TOOL.
